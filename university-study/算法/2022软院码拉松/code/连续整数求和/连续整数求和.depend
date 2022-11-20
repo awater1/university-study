@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1663673124 source:c:\users\13627\desktop\大学学习\比赛\算法\2022软院码拉松\code\连续整数求和\main.c
+	<stdio.h>
+	<stdlib.h>
+
